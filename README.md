@@ -1,57 +1,96 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Dixit+Patel;Backend+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+DSA+%F0%9F%92%BB;Building+%7C+Learning+%7C+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
-</h1>
+<!--
+Profile README for: https://github.com/create2learn7238
+To use this: create a PUBLIC repository named exactly: create2learn7238
+Then add this as README.md
+-->
 
+<h1 align="center">Dixit Patel</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=create2learn7238&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/create2learn7238?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/create2learn7238?label=Stars&style=for-the-badge&color=6C63FF" alt="Stars" />
+  Backend Developer • Python • Java • DSA • APIs • Databases
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
-</div>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=create2learn7238&style=flat-square">
+    <img src="https://komarev.com/ghpvc/?username=create2learn7238&style=flat-square" alt="Profile Views" />
+  </a>
+  <a href="https://github.com/create2learn7238?tab=followers">
+    <img src="https://img.shields.io/github/followers/create2learn7238?style=flat-square" alt="Followers" />
+  </a>
+  <a href="https://github.com/create2learn7238?tab=stars">
+    <img src="https://img.shields.io/github/stars/create2learn7238?style=flat-square" alt="Total Stars" />
+  </a>
+</p>
 
-<br/>
+---
 
-<!-- ABOUT ME SECTION -->
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-### 🐍 Contribution Graph
-<div align="center">
-  <img src="https://raw.githubusercontent.com/create2learn7238/create2learn7238/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-name: Generate Snake
+## About
+- I build backend systems and APIs with **Python** and **Java**
+- Practicing **DSA** consistently to improve problem-solving and performance thinking
+- Interested in **system design**, **clean architecture**, **databases**, and **scalable services**
+- Open to collaboration on backend / API / automation / DSA-focused projects
 
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+---
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: create2learn7238
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+## Tech Stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,fastapi,flask,spring,postgres,mysql,mongodb,redis,docker,git,github,linux,postman&perline=14" />
+</p>
 
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+---
 
+## GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=create2learn7238&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=create2learn7238&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
+</p>
 
-## 🧑‍💻 About Me
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=create2learn7238&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-```yaml
-name: Dixit Patel
-role: Backend Developer
-location: India 🇮🇳
-currently_learning: Data Structures & Algorithms
-passion: Building scalable backend systems
-motto: "Create to Learn, Learn to Create"
+---
+
+## Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=create2learn7238&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+---
+
+## Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=create2learn7238&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+## DSA Focus
+- Core topics: arrays, strings, hashing, recursion, stacks/queues, trees, graphs, DP
+- Goal: consistent practice + clean solutions + complexity analysis
+
+> If you want, add your DSA profile links below (LeetCode / CodeChef / Codeforces).
+
+---
+
+## Featured Work
+Pin your best repositories here (Projects / DSA / Backend APIs).  
+Suggested structure:
+- Backend API (Python/FastAPI or Java/Spring)
+- Database-focused project (PostgreSQL + indexing/query optimization)
+- DSA repository (organized by topic + patterns)
+
+---
+
+## Connect
+<!-- Replace placeholders with your real links -->
+- Email: `your.email@example.com`
+- LinkedIn: https://www.linkedin.com/in/your-link/
+- LeetCode: https://leetcode.com/your-handle/
+- Portfolio (optional): https://your-site.com
+
+---
+
+<!-- Optional: Contribution snake (needs a GitHub Action to generate).
+After setting it up, uncomment this.
+![snake](https://raw.githubusercontent.com/create2learn7238/create2learn7238/output/snake.svg)
+-->
