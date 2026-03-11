@@ -1,33 +1,28 @@
-# Hi there, I'm Dixit Patel! 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&height=70&lines=%F0%9F%91%8B+Hey%2C+I'm+Dixit+Patel;Backend+Developer+%F0%9F%9A%80;Python+%7C+Java+%7C+DSA+%F0%9F%92%BB;Building+%7C+Learning+%7C+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+</h1>
 
-### 👨‍💻 About Me
-I am a passionate developer focused on building impactful software and solving complex problems. I love exploring new technologies and contributing to the open-source community.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=create2learn7238&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/create2learn7238?label=Followers&style=for-the-badge&color=6C63FF" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/create2learn7238?label=Stars&style=for-the-badge&color=6C63FF" alt="Stars" />
+</p>
 
-- 🚀 Currently working on improving my skills in **Full-Stack Development**.
-- 🧠 Learning more about **System Architecture** and **Cloud Computing**.
-- 🏗️ Implementing **Feature-Sliced Design (FSD)** for scalable frontend architecture.
-- 🤝 Open to collaborating on interesting **Open Source projects**.
-- 💬 Ask me about **JavaScript, Python, or Web Technologies**.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+</div>
 
-### 🛠 Tech Stack
+<br/>
 
-**Languages**
-![JavaScript](https://img.shields.io) ![TypeScript](https://img.shields.io) ![Python](https://img.shields.io) ![HTML5](https://img.shields.io) ![CSS3](https://img.shields.io)
+<!-- ABOUT ME SECTION -->
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-**Frameworks & Architecture**
-![React](https://img.shields.io) ![NodeJS](https://img.shields.io) ![Express.js](https://img.shields.io) ![Django](https://img.shields.io) ![FSD](https://img.shields.io)
+## 🧑‍💻 About Me
 
-**Databases & Tools**
-![MongoDB](https://img.shields.io) ![PostgreSQL](https://img.shields.io) ![Docker](https://img.shields.io) ![AWS](https://img.shields.io)
-
-### 📊 GitHub Stats
-![Dixit's GitHub stats](https://github-readme-stats.vercel.app)
-![Top Langs](https://github-readme-stats.vercel.app)
-
-### 📫 Let's Connect!
-[**LinkedIn**](https://linkedin.com) | [**Portfolio**](https://dixitpatel.dev) | [**Email**](mailto:dixit@example.com)
-
----
-*"Code is like humor. When you have to explain it, it’s bad."*
-
-![Snake animation](https://github-github-assets.s3.amazonaws.com)
+```yaml
+name: Dixit Patel
+role: Backend Developer
+location: India 🇮🇳
+currently_learning: Data Structures & Algorithms
+passion: Building scalable backend systems
+motto: "Create to Learn, Learn to Create"
