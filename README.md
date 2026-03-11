@@ -16,16 +16,10 @@
 
 <!-- ABOUT ME SECTION -->
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Dixit Patel
-role: Backend Developer
-location: India 🇮🇳
-currently_learning: Data Structures & Algorithms
-passion: Building scalable backend systems
-motto: "Create to Learn, Learn to Create"
+### 🐍 Contribution Graph
+<div align="center">
+  <img src="https://raw.githubusercontent.com/create2learn7238/create2learn7238/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 name: Generate Snake
 
 on:
@@ -50,3 +44,14 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Dixit Patel
+role: Backend Developer
+location: India 🇮🇳
+currently_learning: Data Structures & Algorithms
+passion: Building scalable backend systems
+motto: "Create to Learn, Learn to Create"
